@@ -5,7 +5,7 @@
 * What is UNHCR Innovation
 * Brief introduction of each of the panel members
 * What we'll discuss
-  * Brief introduction of the innovation process (HCD Connect)
+  * Brief introduction of the innovation process (Human Centered Design)
   * Video of the [IDEO Shopping Cart](http://www.youtube.com/watch?v=M66ZU2PCIcM)
   * Q & A session with panel
 
