@@ -29,3 +29,8 @@ What are some caveats to innovation process that we aren't always aware of?
 
 * [IDEO Shopping Cart](http://www.youtube.com/watch?v=M66ZU2PCIcM)
 * [HCD Connect](http://www.hcdconnect.org/) - Resources on the Innovation process
+
+### Flyer
+
+![Design Process Flyer](flyer.jpg)
+
