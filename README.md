@@ -28,7 +28,7 @@ Failure is a big part of succeeding. How do you tell when an innovation has fail
 
 The man in the video speaks about hierarchy being inheritantly opposed to innovation. However, it's not always an option for us to ditch bureaucracy, especially in the UN. What are some tips to help mitigate bureaucracy or work with bureaucracy to foster innovation?
 
-Lots of us have don't always have the ability to fully implement the innovation process within our unit. How can we bring the innovation process to our work in little ways?
+Lots of us don't always have the ability to fully implement the innovation process within our unit. How can we bring the innovation process to our work in little ways?
 
 What are some caveats to innovation process that we aren't always aware of?
 
