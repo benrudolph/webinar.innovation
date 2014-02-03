@@ -26,7 +26,7 @@ Rapid prototyping can be difficult if the idea isn't easily prototypable (such a
 
 Failure is a big part of succeeding. How do you tell when an innovation has failed? When do you scratch it and go back to the drawing board?
 
-The man in the video speaks about hierarchy being inheritantly opposed to innovation. However, it's not always an option for us to ditch bureaucracy, especially in the UN. What are some tips to help mitigate bureaucracy or work with bureaucracy to foster innovation?
+The man in the video speaks about hierarchy being inherently opposed to innovation. However, it's not always an option for us to ditch bureaucracy, especially in the UN. What are some tips to help mitigate bureaucracy or work with bureaucracy to foster innovation?
 
 Lots of us don't always have the ability to fully implement the innovation process within our unit. How can we bring the innovation process to our work in little ways?
 
