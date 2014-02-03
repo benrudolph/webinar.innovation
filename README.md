@@ -9,6 +9,13 @@
   * Video of the [IDEO Shopping Cart](http://www.youtube.com/watch?v=M66ZU2PCIcM)
   * Q & A session with panel
 
+### Panelists
+
+* Abhi Ramani - R&D Engineer at Consure Medical
+* Anna Xu - Problem Solver at Tipping Point
+* Behrouz Hariri - Designer at IDEO
+* Kari Hanson - Startup advisor and worked with Stanford Class: Design for Extreme Affordability for six years
+
 ### Questions to panel
 
 After seeing this video, IDEO makes going through the Innovation process easy and simple. In some ways though, innovating on a shopping cart is the ideal situation. In the beginning, IDEO goes through a phase of understanding their target user, ie the shopper. I'm interesting in hearing your experiences in understanding the user in situations where it might be more difficult than going to the nearest shopping mart. What challenges have you run into? How have you solved them?
