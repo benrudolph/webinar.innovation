@@ -11,10 +11,10 @@
 
 ### Panelists
 
-* Abhi Ramani - R&D Engineer at Consure Medical in New Delhi India
-* Anna Xu - Problem Solver at Tipping Point
-* Behrouz Hariri - Designer at IDEO
-* Kari Hanson - Startup advisor and worked with Stanford Class: Design for Extreme Affordability for six years
+* Abhi Ramani - R&D Engineer at Consure Medical in New Delhi India. He's a mechanical engineer and is interested in medical device innovation, global health and entrepreneurship. 
+* Anna Xu - Problem Solver at Tipping Point. She's been involved in a couple extreme affordability projects, one dealing directly with refugees and access to information.
+* Behrouz Hariri - Designer at IDEO. He's working on a very cool project called Drones for Health. IDEO.org is imagining a future where drones are used to solve humanitarian challenges, specifically towards last mile healthcare delivery.
+* Kari Hanson - Startup advisor. She has worked with Stanford's Design for Extreme Affordability for six years now which has seen some really impressive products.
 
 ### Questions to panel
 
