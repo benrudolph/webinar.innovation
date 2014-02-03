@@ -11,7 +11,7 @@
 
 ### Panelists
 
-* Abhi Ramani - R&D Engineer at Consure Medical
+* Abhi Ramani - R&D Engineer at Consure Medical in New Delhi India
 * Anna Xu - Problem Solver at Tipping Point
 * Behrouz Hariri - Designer at IDEO
 * Kari Hanson - Startup advisor and worked with Stanford Class: Design for Extreme Affordability for six years
